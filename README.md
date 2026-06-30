@@ -78,5 +78,4 @@ Pour chaque catégorie, les dépenses sont agrégées par mois. Si au moins 4 mo
 
 ## Auteur
 
-[OphisLuka]
-
+[OphisLuka](https://github.com/OphisLuka)
